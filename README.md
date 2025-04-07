@@ -1,6 +1,9 @@
-## Getting Started
+## Alura's Java Course Challenge
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Create an app that simulates a bank account.
+  - Menu
+  - 4 options
+  - Loop
 
 ## Folder Structure
 
